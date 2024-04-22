@@ -1,15 +1,13 @@
-pseudo code
 {
 Initial Function()
 {
   //Sample Code
 }
 
-Initial Security()
+feaature2()
 {
- //Sample Code
+  This is the updated Feature 2
 }
-
 
 
 }
